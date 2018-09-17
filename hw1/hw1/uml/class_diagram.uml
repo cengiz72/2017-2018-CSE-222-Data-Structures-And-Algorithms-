@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="19.48888888888888" y="489.0">Receptionist</node>
+    <node x="292.9888888888888" y="0.0">User</node>
+    <node x="350.4111111111111" y="1124.0">HotelManagementSystem</node>
+    <node x="311.4888888888889" y="533.0">Guest</node>
+    <node x="292.9888888888889" y="145.0">AbstractUser</node>
+    <node x="0.0" y="856.0">Manager</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Manager" target="Receptionist">
+      <point x="-1.4210854715202004E-14" y="-104.0" />
+      <point x="100.0" y="831.0" />
+      <point x="64.8222222222222" y="831.0" />
+      <point x="-90.66666666666667" y="158.5" />
+    </edge>
+    <edge source="AbstractUser" target="User">
+      <point x="-5.6843418860808015E-14" y="-137.0" />
+      <point x="0.0" y="47.5" />
+    </edge>
+    <edge source="HotelManagementSystem" target="Guest">
+      <point x="-18.16666666666663" y="-114.5" />
+      <point x="441.24444444444447" y="1104.0" />
+      <point x="418.9888888888889" y="1104.0" />
+      <point x="0.0" y="114.5" />
+    </edge>
+    <edge source="HotelManagementSystem" target="Receptionist">
+      <point x="-54.5" y="-114.5" />
+      <point x="404.9111111111111" y="1094.0" />
+      <point x="220.0388888888889" y="1094.0" />
+      <point x="220.0388888888889" y="831.0" />
+      <point x="246.15555555555557" y="831.0" />
+      <point x="90.66666666666669" y="158.5" />
+    </edge>
+    <edge source="Guest" target="AbstractUser">
+      <point x="53.74999999999994" y="-114.5" />
+      <point x="472.7388888888888" y="469.0" />
+      <point x="431.3638888888889" y="469.0" />
+      <point x="15.375" y="137.0" />
+    </edge>
+    <edge source="Manager" target="AbstractUser">
+      <point x="-66.66666666666669" y="-104.0" />
+      <point x="33.333333333333314" y="831.0" />
+      <point x="8.98888888888888" y="831.0" />
+      <point x="8.98888888888888" y="439.0" />
+      <point x="308.3638888888889" y="439.0" />
+      <point x="-107.625" y="137.0" />
+    </edge>
+    <edge source="HotelManagementSystem" target="AbstractUser">
+      <point x="90.83333333333339" y="-114.5" />
+      <point x="550.2444444444445" y="1104.0" />
+      <point x="558.9888888888888" y="1104.0" />
+      <point x="558.9888888888888" y="439.0" />
+      <point x="523.6138888888888" y="439.0" />
+      <point x="107.62499999999994" y="137.0" />
+    </edge>
+    <edge source="Receptionist" target="AbstractUser">
+      <point x="-68.0" y="-158.5" />
+      <point x="87.48888888888888" y="449.0" />
+      <point x="339.1138888888889" y="449.0" />
+      <point x="-76.875" y="137.0" />
+    </edge>
+    <edge source="HotelManagementSystem" target="Manager">
+      <point x="-90.83333333333337" y="-114.5" />
+      <point x="368.5777777777777" y="1104.0" />
+      <point x="100.0" y="1104.0" />
+      <point x="0.0" y="104.0" />
+    </edge>
+  </edges>
+  <settings layout="Hıerarchıc Group" zoom="1.8000000000000007" x="266.8333333333332" y="846.3333333333333" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

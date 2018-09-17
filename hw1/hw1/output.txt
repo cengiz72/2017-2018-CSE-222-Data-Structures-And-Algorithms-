@@ -1,0 +1,575 @@
+Welcome to Hotel dear users
+0 --> for  log in as guest
+1 --> for  log in as receptionist
+2 --> for  log in as manager
+3 --> for  log out from system
+choice:0
+Name:Esma
+Password:3333
+0 --> for booking a room
+1 --> for canceling a reservation
+Enter your chooice:0
+Room NO        Room Type      Room Situation      Room NO        Room Type      Room Situation
+    1            Single           EMPTY              2            Single            EMPTY
+    3            Single           EMPTY              4            Single            EMPTY
+    5            Single           EMPTY              6            Single            EMPTY
+    7            Single           EMPTY              8            Single            EMPTY
+    9            Single           EMPTY             10            Single            EMPTY
+   11            Single           EMPTY             12            Double            EMPTY
+   13            Double           EMPTY             14            Double            EMPTY
+   15            Double           EMPTY             16            Double            EMPTY
+Select the room:1
+You have booked 1. room
+0 --> for  log in as guest
+1 --> for  log in as receptionist
+2 --> for  log in as manager
+3 --> for  log out from system
+choice:0
+Name:Ali
+Password:3333
+0 --> for booking a room
+1 --> for canceling a reservation
+Enter your chooice:0
+Room NO        Room Type      Room Situation      Room NO        Room Type      Room Situation
+    1            Single        RESERVED              2            Single            EMPTY
+    3            Single           EMPTY              4            Single            EMPTY
+    5            Single           EMPTY              6            Single            EMPTY
+    7            Single           EMPTY              8            Single            EMPTY
+    9            Single           EMPTY             10            Single            EMPTY
+   11            Single           EMPTY             12            Double            EMPTY
+   13            Double           EMPTY             14            Double            EMPTY
+   15            Double           EMPTY             16            Double            EMPTY
+Select the room:2
+You have booked 2. room
+0 --> for  log in as guest
+1 --> for  log in as receptionist
+2 --> for  log in as manager
+3 --> for  log out from system
+choice:0
+Name:Ali
+Password:3333
+0 --> for booking a room
+1 --> for canceling a reservation
+Enter your chooice:1
+Room NO        Room Type      Room Situation      Room NO        Room Type      Room Situation
+    1            Single        RESERVED              2            Single         RESERVED
+    3            Single           EMPTY              4            Single            EMPTY
+    5            Single           EMPTY              6            Single            EMPTY
+    7            Single           EMPTY              8            Single            EMPTY
+    9            Single           EMPTY             10            Single            EMPTY
+   11            Single           EMPTY             12            Double            EMPTY
+   13            Double           EMPTY             14            Double            EMPTY
+   15            Double           EMPTY             16            Double            EMPTY
+Select the room:1
+You can just cancel own reservation!
+Room NO        Room Type      Room Situation      Room NO        Room Type      Room Situation
+    1            Single        RESERVED              2            Single         RESERVED
+    3            Single           EMPTY              4            Single            EMPTY
+    5            Single           EMPTY              6            Single            EMPTY
+    7            Single           EMPTY              8            Single            EMPTY
+    9            Single           EMPTY             10            Single            EMPTY
+   11            Single           EMPTY             12            Double            EMPTY
+   13            Double           EMPTY             14            Double            EMPTY
+   15            Double           EMPTY             16            Double            EMPTY
+Select the room:3
+You can just cancel own reservation!
+Room NO        Room Type      Room Situation      Room NO        Room Type      Room Situation
+    1            Single        RESERVED              2            Single         RESERVED
+    3            Single           EMPTY              4            Single            EMPTY
+    5            Single           EMPTY              6            Single            EMPTY
+    7            Single           EMPTY              8            Single            EMPTY
+    9            Single           EMPTY             10            Single            EMPTY
+   11            Single           EMPTY             12            Double            EMPTY
+   13            Double           EMPTY             14            Double            EMPTY
+   15            Double           EMPTY             16            Double            EMPTY
+Select the room:2
+Ali's reservation is canceled
+0 --> for  log in as guest
+1 --> for  log in as receptionist
+2 --> for  log in as manager
+3 --> for  log out from system
+choice:0
+Name:Zeynep
+Password:3333
+0 --> for booking a room
+1 --> for canceling a reservation
+Enter your chooice:0
+Room NO        Room Type      Room Situation      Room NO        Room Type      Room Situation
+    1            Single        RESERVED              2            Single            EMPTY
+    3            Single           EMPTY              4            Single            EMPTY
+    5            Single           EMPTY              6            Single            EMPTY
+    7            Single           EMPTY              8            Single            EMPTY
+    9            Single           EMPTY             10            Single            EMPTY
+   11            Single           EMPTY             12            Double            EMPTY
+   13            Double           EMPTY             14            Double            EMPTY
+   15            Double           EMPTY             16            Double            EMPTY
+Select the room:5
+You have booked 5. room
+0 --> for  log in as guest
+1 --> for  log in as receptionist
+2 --> for  log in as manager
+3 --> for  log out from system
+choice:0
+Name:Ahmet
+Password:3333
+0 --> for booking a room
+1 --> for canceling a reservation
+Enter your chooice:0
+Room NO        Room Type      Room Situation      Room NO        Room Type      Room Situation
+    1            Single        RESERVED              2            Single            EMPTY
+    3            Single           EMPTY              4            Single            EMPTY
+    5            Single        RESERVED              6            Single            EMPTY
+    7            Single           EMPTY              8            Single            EMPTY
+    9            Single           EMPTY             10            Single            EMPTY
+   11            Single           EMPTY             12            Double            EMPTY
+   13            Double           EMPTY             14            Double            EMPTY
+   15            Double           EMPTY             16            Double            EMPTY
+Select the room:6
+You have booked 6. room
+0 --> for  log in as guest
+1 --> for  log in as receptionist
+2 --> for  log in as manager
+3 --> for  log out from system
+choice:1
+Name:Faysal
+Password:1111
+You are not a receptionist!
+0 --> for  log in as guest
+1 --> for  log in as receptionist
+2 --> for  log in as manager
+3 --> for  log out from system
+choice:2
+Name:Faysal
+Password:2222
+You are not manager!
+0 --> for  log in as guest
+1 --> for  log in as receptionist
+2 --> for  log in as manager
+3 --> for  log out from system
+choice:1
+Name:Dilan
+Password:1111
+0 --> for booking a room
+1 --> for checking in  a guest
+2 --> for checking out a guest
+3 --> for canceling a  reservation
+Enter your chooice:0
+Please enter name , password and room no.
+Name:Fatma
+Password:3333
+Room NO        Room Type      Room Situation    Guest    Room NO        Room Type      Room Situation    Guest
+    1           Single          RESERVED          Esma |    2            Single          EMPTY               
+    3           Single             EMPTY               |    4            Single          EMPTY               
+    5           Single          RESERVED        Zeynep |    6            Single       RESERVED          Ahmet
+    7           Single             EMPTY               |    8            Single          EMPTY               
+    9           Single             EMPTY               |   10            Single          EMPTY               
+   11           Single             EMPTY               |   12            Double          EMPTY               
+   13           Double             EMPTY               |   14            Double          EMPTY               
+   15           Double             EMPTY               |   16            Double          EMPTY               
+room No:7
+Room NO        Room Type      Room Situation    Guest    Room NO        Room Type      Room Situation    Guest
+    1           Single          RESERVED          Esma |    2            Single          EMPTY               
+    3           Single             EMPTY               |    4            Single          EMPTY               
+    5           Single          RESERVED        Zeynep |    6            Single       RESERVED          Ahmet
+    7           Single          RESERVED         Fatma |    8            Single          EMPTY               
+    9           Single             EMPTY               |   10            Single          EMPTY               
+   11           Single             EMPTY               |   12            Double          EMPTY               
+   13           Double             EMPTY               |   14            Double          EMPTY               
+   15           Double             EMPTY               |   16            Double          EMPTY               
+7. room is reserved to Fatma by Dilan
+0 --> for  log in as guest
+1 --> for  log in as receptionist
+2 --> for  log in as manager
+3 --> for  log out from system
+choice:1
+Name:Dilan
+Password:1111
+0 --> for booking a room
+1 --> for checking in  a guest
+2 --> for checking out a guest
+3 --> for canceling a  reservation
+Enter your chooice:0
+Please enter name , password and room no.
+Name:Aysel
+Password:3333
+Room NO        Room Type      Room Situation    Guest    Room NO        Room Type      Room Situation    Guest
+    1           Single          RESERVED          Esma |    2            Single          EMPTY               
+    3           Single             EMPTY               |    4            Single          EMPTY               
+    5           Single          RESERVED        Zeynep |    6            Single       RESERVED          Ahmet
+    7           Single          RESERVED         Fatma |    8            Single          EMPTY               
+    9           Single             EMPTY               |   10            Single          EMPTY               
+   11           Single             EMPTY               |   12            Double          EMPTY               
+   13           Double             EMPTY               |   14            Double          EMPTY               
+   15           Double             EMPTY               |   16            Double          EMPTY               
+room No:7
+You can just book an empty room!
+Room NO        Room Type      Room Situation    Guest    Room NO        Room Type      Room Situation    Guest
+    1           Single          RESERVED          Esma |    2            Single          EMPTY               
+    3           Single             EMPTY               |    4            Single          EMPTY               
+    5           Single          RESERVED        Zeynep |    6            Single       RESERVED          Ahmet
+    7           Single          RESERVED         Fatma |    8            Single          EMPTY               
+    9           Single             EMPTY               |   10            Single          EMPTY               
+   11           Single             EMPTY               |   12            Double          EMPTY               
+   13           Double             EMPTY               |   14            Double          EMPTY               
+   15           Double             EMPTY               |   16            Double          EMPTY               
+room No:8
+Room NO        Room Type      Room Situation    Guest    Room NO        Room Type      Room Situation    Guest
+    1           Single          RESERVED          Esma |    2            Single          EMPTY               
+    3           Single             EMPTY               |    4            Single          EMPTY               
+    5           Single          RESERVED        Zeynep |    6            Single       RESERVED          Ahmet
+    7           Single          RESERVED         Fatma |    8            Single       RESERVED          Aysel
+    9           Single             EMPTY               |   10            Single          EMPTY               
+   11           Single             EMPTY               |   12            Double          EMPTY               
+   13           Double             EMPTY               |   14            Double          EMPTY               
+   15           Double             EMPTY               |   16            Double          EMPTY               
+8. room is reserved to Aysel by Dilan
+0 --> for  log in as guest
+1 --> for  log in as receptionist
+2 --> for  log in as manager
+3 --> for  log out from system
+choice:1
+Name:Dilan
+Password:1111
+0 --> for booking a room
+1 --> for checking in  a guest
+2 --> for checking out a guest
+3 --> for canceling a  reservation
+Enter your chooice:1
+Please select an room for checking in a guest.
+Room NO        Room Type      Room Situation    Guest    Room NO        Room Type      Room Situation    Guest
+    1           Single          RESERVED          Esma |    2            Single          EMPTY               
+    3           Single             EMPTY               |    4            Single          EMPTY               
+    5           Single          RESERVED        Zeynep |    6            Single       RESERVED          Ahmet
+    7           Single          RESERVED         Fatma |    8            Single       RESERVED          Aysel
+    9           Single             EMPTY               |   10            Single          EMPTY               
+   11           Single             EMPTY               |   12            Double          EMPTY               
+   13           Double             EMPTY               |   14            Double          EMPTY               
+   15           Double             EMPTY               |   16            Double          EMPTY               
+Room no:10
+Name:Ferdi
+Password:3333
+Room NO        Room Type      Room Situation    Guest    Room NO        Room Type      Room Situation    Guest
+    1           Single          RESERVED          Esma |    2            Single          EMPTY               
+    3           Single             EMPTY               |    4            Single          EMPTY               
+    5           Single          RESERVED        Zeynep |    6            Single       RESERVED          Ahmet
+    7           Single          RESERVED         Fatma |    8            Single       RESERVED          Aysel
+    9           Single             EMPTY               |   10            Single           FULL          Ferdi
+   11           Single             EMPTY               |   12            Double          EMPTY               
+   13           Double             EMPTY               |   14            Double          EMPTY               
+   15           Double             EMPTY               |   16            Double          EMPTY               
+It is checked in Ferdi by Dilan to 10. room
+0 --> for  log in as guest
+1 --> for  log in as receptionist
+2 --> for  log in as manager
+3 --> for  log out from system
+choice:1
+Name:Dilan
+Password:1111
+0 --> for booking a room
+1 --> for checking in  a guest
+2 --> for checking out a guest
+3 --> for canceling a  reservation
+Enter your chooice:1
+Please select an room for checking in a guest.
+Room NO        Room Type      Room Situation    Guest    Room NO        Room Type      Room Situation    Guest
+    1           Single          RESERVED          Esma |    2            Single          EMPTY               
+    3           Single             EMPTY               |    4            Single          EMPTY               
+    5           Single          RESERVED        Zeynep |    6            Single       RESERVED          Ahmet
+    7           Single          RESERVED         Fatma |    8            Single       RESERVED          Aysel
+    9           Single             EMPTY               |   10            Single           FULL          Ferdi
+   11           Single             EMPTY               |   12            Double          EMPTY               
+   13           Double             EMPTY               |   14            Double          EMPTY               
+   15           Double             EMPTY               |   16            Double          EMPTY               
+Room no:7
+Name:Ferdi
+Password:3333
+Room NO        Room Type      Room Situation    Guest    Room NO        Room Type      Room Situation    Guest
+    1           Single          RESERVED          Esma |    2            Single          EMPTY               
+    3           Single             EMPTY               |    4            Single          EMPTY               
+    5           Single          RESERVED        Zeynep |    6            Single       RESERVED          Ahmet
+    7           Single              FULL         Fatma |    8            Single       RESERVED          Aysel
+    9           Single             EMPTY               |   10            Single           FULL          Ferdi
+   11           Single             EMPTY               |   12            Double          EMPTY               
+   13           Double             EMPTY               |   14            Double          EMPTY               
+   15           Double             EMPTY               |   16            Double          EMPTY               
+It is checked in Ferdi by Dilan to 7. room
+0 --> for  log in as guest
+1 --> for  log in as receptionist
+2 --> for  log in as manager
+3 --> for  log out from system
+choice:1
+Name:Dilan
+Password:1111
+0 --> for booking a room
+1 --> for checking in  a guest
+2 --> for checking out a guest
+3 --> for canceling a  reservation
+Enter your chooice:1
+Please select an room for checking in a guest.
+Room NO        Room Type      Room Situation    Guest    Room NO        Room Type      Room Situation    Guest
+    1           Single          RESERVED          Esma |    2            Single          EMPTY               
+    3           Single             EMPTY               |    4            Single          EMPTY               
+    5           Single          RESERVED        Zeynep |    6            Single       RESERVED          Ahmet
+    7           Single              FULL         Fatma |    8            Single       RESERVED          Aysel
+    9           Single             EMPTY               |   10            Single           FULL          Ferdi
+   11           Single             EMPTY               |   12            Double          EMPTY               
+   13           Double             EMPTY               |   14            Double          EMPTY               
+   15           Double             EMPTY               |   16            Double          EMPTY               
+Room no:9
+Name:Seyfi
+Password:3333
+Room NO        Room Type      Room Situation    Guest    Room NO        Room Type      Room Situation    Guest
+    1           Single          RESERVED          Esma |    2            Single          EMPTY               
+    3           Single             EMPTY               |    4            Single          EMPTY               
+    5           Single          RESERVED        Zeynep |    6            Single       RESERVED          Ahmet
+    7           Single              FULL         Fatma |    8            Single       RESERVED          Aysel
+    9           Single              FULL         Seyfi |   10            Single           FULL          Ferdi
+   11           Single             EMPTY               |   12            Double          EMPTY               
+   13           Double             EMPTY               |   14            Double          EMPTY               
+   15           Double             EMPTY               |   16            Double          EMPTY               
+It is checked in Seyfi by Dilan to 9. room
+0 --> for  log in as guest
+1 --> for  log in as receptionist
+2 --> for  log in as manager
+3 --> for  log out from system
+choice:1
+Name:Dilan
+Password:1111
+0 --> for booking a room
+1 --> for checking in  a guest
+2 --> for checking out a guest
+3 --> for canceling a  reservation
+Enter your chooice:1
+Please select an room for checking in a guest.
+Room NO        Room Type      Room Situation    Guest    Room NO        Room Type      Room Situation    Guest
+    1           Single          RESERVED          Esma |    2            Single          EMPTY               
+    3           Single             EMPTY               |    4            Single          EMPTY               
+    5           Single          RESERVED        Zeynep |    6            Single       RESERVED          Ahmet
+    7           Single              FULL         Fatma |    8            Single       RESERVED          Aysel
+    9           Single              FULL         Seyfi |   10            Single           FULL          Ferdi
+   11           Single             EMPTY               |   12            Double          EMPTY               
+   13           Double             EMPTY               |   14            Double          EMPTY               
+   15           Double             EMPTY               |   16            Double          EMPTY               
+Room no:14
+Name:Kamil
+Password:3333
+Room NO        Room Type      Room Situation    Guest    Room NO        Room Type      Room Situation    Guest
+    1           Single          RESERVED          Esma |    2            Single          EMPTY               
+    3           Single             EMPTY               |    4            Single          EMPTY               
+    5           Single          RESERVED        Zeynep |    6            Single       RESERVED          Ahmet
+    7           Single              FULL         Fatma |    8            Single       RESERVED          Aysel
+    9           Single              FULL         Seyfi |   10            Single           FULL          Ferdi
+   11           Single             EMPTY               |   12            Double          EMPTY               
+   13           Double             EMPTY               |   14            Double           FULL          Kamil
+   15           Double             EMPTY               |   16            Double          EMPTY               
+It is checked in Kamil by Dilan to 14. room
+0 --> for  log in as guest
+1 --> for  log in as receptionist
+2 --> for  log in as manager
+3 --> for  log out from system
+choice:1
+Name:Dilan
+Password:1111
+0 --> for booking a room
+1 --> for checking in  a guest
+2 --> for checking out a guest
+3 --> for canceling a  reservation
+Enter your chooice:1
+Please select an room for checking in a guest.
+Room NO        Room Type      Room Situation    Guest    Room NO        Room Type      Room Situation    Guest
+    1           Single          RESERVED          Esma |    2            Single          EMPTY               
+    3           Single             EMPTY               |    4            Single          EMPTY               
+    5           Single          RESERVED        Zeynep |    6            Single       RESERVED          Ahmet
+    7           Single              FULL         Fatma |    8            Single       RESERVED          Aysel
+    9           Single              FULL         Seyfi |   10            Single           FULL          Ferdi
+   11           Single             EMPTY               |   12            Double          EMPTY               
+   13           Double             EMPTY               |   14            Double           FULL          Kamil
+   15           Double             EMPTY               |   16            Double          EMPTY               
+Room no:14
+Please select the a reserved or an empty room!
+Room NO        Room Type      Room Situation    Guest    Room NO        Room Type      Room Situation    Guest
+    1           Single          RESERVED          Esma |    2            Single          EMPTY               
+    3           Single             EMPTY               |    4            Single          EMPTY               
+    5           Single          RESERVED        Zeynep |    6            Single       RESERVED          Ahmet
+    7           Single              FULL         Fatma |    8            Single       RESERVED          Aysel
+    9           Single              FULL         Seyfi |   10            Single           FULL          Ferdi
+   11           Single             EMPTY               |   12            Double          EMPTY               
+   13           Double             EMPTY               |   14            Double           FULL          Kamil
+   15           Double             EMPTY               |   16            Double          EMPTY               
+Room no:4
+Name:Zeliha
+Password:3333
+Room NO        Room Type      Room Situation    Guest    Room NO        Room Type      Room Situation    Guest
+    1           Single          RESERVED          Esma |    2            Single          EMPTY               
+    3           Single             EMPTY               |    4            Single           FULL         Zeliha
+    5           Single          RESERVED        Zeynep |    6            Single       RESERVED          Ahmet
+    7           Single              FULL         Fatma |    8            Single       RESERVED          Aysel
+    9           Single              FULL         Seyfi |   10            Single           FULL          Ferdi
+   11           Single             EMPTY               |   12            Double          EMPTY               
+   13           Double             EMPTY               |   14            Double           FULL          Kamil
+   15           Double             EMPTY               |   16            Double          EMPTY               
+It is checked in Zeliha by Dilan to 4. room
+0 --> for  log in as guest
+1 --> for  log in as receptionist
+2 --> for  log in as manager
+3 --> for  log out from system
+choice:1
+Name:Dilan
+Password:1111
+0 --> for booking a room
+1 --> for checking in  a guest
+2 --> for checking out a guest
+3 --> for canceling a  reservation
+Enter your chooice:2
+Please select room no for checking out a guest.
+Room NO        Room Type      Room Situation    Guest    Room NO        Room Type      Room Situation    Guest
+    1           Single          RESERVED          Esma |    2            Single          EMPTY               
+    3           Single             EMPTY               |    4            Single           FULL         Zeliha
+    5           Single          RESERVED        Zeynep |    6            Single       RESERVED          Ahmet
+    7           Single              FULL         Fatma |    8            Single       RESERVED          Aysel
+    9           Single              FULL         Seyfi |   10            Single           FULL          Ferdi
+   11           Single             EMPTY               |   12            Double          EMPTY               
+   13           Double             EMPTY               |   14            Double           FULL          Kamil
+   15           Double             EMPTY               |   16            Double          EMPTY               
+Room no:16
+Please select a full room.
+Room NO        Room Type      Room Situation    Guest    Room NO        Room Type      Room Situation    Guest
+    1           Single          RESERVED          Esma |    2            Single          EMPTY               
+    3           Single             EMPTY               |    4            Single           FULL         Zeliha
+    5           Single          RESERVED        Zeynep |    6            Single       RESERVED          Ahmet
+    7           Single              FULL         Fatma |    8            Single       RESERVED          Aysel
+    9           Single              FULL         Seyfi |   10            Single           FULL          Ferdi
+   11           Single             EMPTY               |   12            Double          EMPTY               
+   13           Double             EMPTY               |   14            Double           FULL          Kamil
+   15           Double             EMPTY               |   16            Double          EMPTY               
+Room no:14
+Room NO        Room Type      Room Situation    Guest    Room NO        Room Type      Room Situation    Guest
+    1           Single          RESERVED          Esma |    2            Single          EMPTY               
+    3           Single             EMPTY               |    4            Single           FULL         Zeliha
+    5           Single          RESERVED        Zeynep |    6            Single       RESERVED          Ahmet
+    7           Single              FULL         Fatma |    8            Single       RESERVED          Aysel
+    9           Single              FULL         Seyfi |   10            Single           FULL          Ferdi
+   11           Single             EMPTY               |   12            Double          EMPTY               
+   13           Double             EMPTY               |   14            Double          EMPTY               
+   15           Double             EMPTY               |   16            Double          EMPTY               
+It is checked out Kamil by Dilan from 14. room
+0 --> for  log in as guest
+1 --> for  log in as receptionist
+2 --> for  log in as manager
+3 --> for  log out from system
+choice:2
+Name:Dilan
+Password:2222
+You are not manager!
+0 --> for  log in as guest
+1 --> for  log in as receptionist
+2 --> for  log in as manager
+3 --> for  log out from system
+choice:2
+Name:Halil
+Password:2222
+0 --> for booking a room
+1 --> for checking in  a guest
+2 --> for checking out a guest
+3 --> for canceling a  reservation
+4 --> for adding  a new receptionist
+5 --> for deleting a receptionist
+Enter your chooice:4
+Available receptionists.
+---> Dilan
+Please enter name and password for adding new receptionist
+Name:Salih
+Password:1111
+You add new receptionist named Salih to hotel system.
+0 --> for  log in as guest
+1 --> for  log in as receptionist
+2 --> for  log in as manager
+3 --> for  log out from system
+choice:2
+Name:Halil
+Password:2222
+0 --> for booking a room
+1 --> for checking in  a guest
+2 --> for checking out a guest
+3 --> for canceling a  reservation
+4 --> for adding  a new receptionist
+5 --> for deleting a receptionist
+Enter your chooice:4
+Available receptionists.
+---> Dilan
+---> Salih
+Please enter name and password for adding new receptionist
+Name:Kemal
+Password:1111
+You add new receptionist named Kemal to hotel system.
+0 --> for  log in as guest
+1 --> for  log in as receptionist
+2 --> for  log in as manager
+3 --> for  log out from system
+choice:2
+Name:Halil
+Password:2222
+0 --> for booking a room
+1 --> for checking in  a guest
+2 --> for checking out a guest
+3 --> for canceling a  reservation
+4 --> for adding  a new receptionist
+5 --> for deleting a receptionist
+Enter your chooice:4
+Available receptionists.
+---> Dilan
+---> Salih
+---> Kemal
+Please enter name and password for adding new receptionist
+Name:Semih
+Password:1111
+You add new receptionist named Semih to hotel system.
+0 --> for  log in as guest
+1 --> for  log in as receptionist
+2 --> for  log in as manager
+3 --> for  log out from system
+choice:2
+Name:Halil
+Password:2222
+0 --> for booking a room
+1 --> for checking in  a guest
+2 --> for checking out a guest
+3 --> for canceling a  reservation
+4 --> for adding  a new receptionist
+5 --> for deleting a receptionist
+Enter your chooice:5
+Available receptionists.
+---> Dilan
+---> Salih
+---> Kemal
+---> Semih
+Please enter name for deleting a receptionist
+Name:Zeynep
+there is no a such named  receptionist!
+0 --> for  log in as guest
+1 --> for  log in as receptionist
+2 --> for  log in as manager
+3 --> for  log out from system
+choice:2
+Name:Halil
+Password:2222
+0 --> for booking a room
+1 --> for checking in  a guest
+2 --> for checking out a guest
+3 --> for canceling a  reservation
+4 --> for adding  a new receptionist
+5 --> for deleting a receptionist
+Enter your chooice:5
+Available receptionists.
+---> Dilan
+---> Salih
+---> Kemal
+---> Semih
+Please enter name for deleting a receptionist
+Name:Semih
+You delete a receptionist named Semih from hotel system.
+0 --> for  log in as guest
+1 --> for  log in as receptionist
+2 --> for  log in as manager
+3 --> for  log out from system
+choice:3
