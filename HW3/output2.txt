@@ -1,0 +1,44 @@
+PART2 RESULTS :
+
+RESULTS FOR disable(Course item)
+4 MATH 217 is disable anymore
+<<<=====================================>>>>
+6 CSE 396 is disable anymore
+<<<=====================================>>>>
+5 CSE 321 is disable anymore
+<<<=====================================>>>>
+The 4 MATH 217 is already disable!
+<<<=====================================>>>>
+4 CSE 232 is disable anymore
+<<<=====================================>>>>
+There is no such a item ==> 4 CSE 896!
+<<<=====================================>>>>
+4 MATH 217 is not visible
+<<<=====================================>>>>
+The 1. indexed element is not visible!
+<<<=====================================>>>>
+The 1.indexed element is disable!
+<<<=====================================>>>>
+The total elements count : 12
+The Enable elements counts: 8 
+<<<=====================================>>>>
+The 1. indexed element is not visible
+null
+<<<=====================================>>>>
+Disables items:
+1 -) 4 MATH 217
+2 -) 6 CSE 396
+3 -) 5 CSE 321
+4 -) 4 CSE 232
+<<<=====================================>>>>
+5 CSE 321 is visible anymore
+<<<=====================================>>>>
+Disables items:
+1 -) 4 MATH 217
+2 -) 6 CSE 396
+3 -) 4 CSE 232
+<<<=====================================>>>>
+5 CSE 107 is already visible or is not available in the list!|
+<<<=====================================>>>>
+5 PHYS 107 is already visible or is not available in the list!|
+<<<=====================================>>>>

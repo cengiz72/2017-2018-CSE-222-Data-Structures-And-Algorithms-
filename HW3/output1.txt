@@ -1,0 +1,62 @@
+Part1 results :
+Results for getByCode(String courseCode) :
+4 CSE 222
+1 CSE 101
+Results for  listSemesterCourses(int semester) :
+The items of 1. semester   :
+1 XXX XXX
+1 CSE 101
+1 CSE 107
+1 MATH 101
+1 PHYS 121
+1 PHYS 151
+1 SSTR 101
+1 TUR 101
+The items of 8. semester   :
+8 CSE 496
+8 CSE 4XX
+8 CSE 4XX
+8 CSE 4XX
+8 ENG 402
+8 XXX XXX
+8 XXX XXX
+Results for  getByRange(int start_index, int last_index) :
+The items between 10. and 30. index   :
+2 CSE 108
+2 MATH 102
+2 PHYS 122
+2 PHYS 152
+2 SSTR 102
+2 TUR 102
+3 CSE 241
+3 CSE 211
+3 CSE 231
+3 CSE 233
+3 XXX XXX
+3 EN 111
+4 CSE 222
+4 MATH 217
+4 CSE 232
+4 CSE 234
+4 XXX XXX
+4 EN 112
+5 CSE 343
+5 CSE 341
+5 CSE 331
+The items between 0. and 15. index   :
+1 XXX XXX
+1 CSE 101
+1 CSE 107
+1 MATH 101
+1 PHYS 121
+1 PHYS 151
+1 SSTR 101
+1 TUR 101
+2 XXX XXX
+2 CSE 102
+2 CSE 108
+2 MATH 102
+2 PHYS 122
+2 PHYS 152
+2 SSTR 102
+2 TUR 102

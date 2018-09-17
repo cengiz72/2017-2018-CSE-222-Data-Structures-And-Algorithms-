@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="297.5" y="531.0">com.company.Main</node>
+    <node x="551.0" y="77.0">com.company.Part3</node>
+    <node x="0.0" y="0.0">com.company.Part2</node>
+    <node x="233.0" y="132.0">com.company.Part1</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.company.Main" target="com.company.Part1">
+      <point x="-14.083333333333371" y="-25.5" />
+      <point x="367.91666666666663" y="491.0" />
+      <point x="307.5" y="491.0" />
+      <point x="-74.5" y="103.5" />
+    </edge>
+    <edge source="com.company.Main" target="com.company.Part3">
+      <point x="70.41666666666663" y="-25.5" />
+      <point x="452.41666666666663" y="511.0" />
+      <point x="845.75" y="511.0" />
+      <point x="98.25" y="158.5" />
+    </edge>
+    <edge source="com.company.Main" target="com.company.Part2">
+      <point x="-70.41666666666669" y="-25.5" />
+      <point x="311.5833333333333" y="511.0" />
+      <point x="53.25" y="511.0" />
+      <point x="-53.25" y="235.5" />
+    </edge>
+  </edges>
+  <settings layout="Hıerarchıc Group" zoom="1.0" x="229.0" y="291.5" />
+  <SelectedNodes>
+    <node>com.company.Part3</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
